@@ -178,3 +178,6 @@ cython_debug/
 # Course Materials
 course_materials/*
 given/*
+
+# Chuncky Files
+weights/classifier/transfer/ViT.pt
