@@ -1,1 +1,2 @@
 weights/classifier/transfer/ViT.pt filter=lfs diff=lfs merge=lfs -text
+weights/generative/cwgan/conditional-wgan.pt filter=lfs diff=lfs merge=lfs -text
