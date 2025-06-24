@@ -1,12 +1,12 @@
 # DL-Challenge
 
-This is the final project of a course on Deep Learning taught by Prof. Vincet Barra. During lecture we got introduced to a variety of different Deep Learning model.
+This is the final project of a course on Deep Learning taught by Prof. Vincet Barra. During lecture we got introduced to a variety of different Deep Learning models.
 
 The objective of this challenge is to apply our knowledge to a given problem. We were asked to find both a good classifier and generative model.
 
 ## Dataset
 
-The supplied dataset contains grayscale images of size 28x28 and images stem from the Google Quickdraw Dataset. 5 classes were provided baskets, eyes, binoculars, rabbits and hands with 15000 training examples and 5000 test examples.
+The supplied dataset contains grayscale images of size 28x28 that stem from the Google Quickdraw Dataset. 5 classes were provided: baskets, eyes, binoculars, rabbits and hands with 15000 training examples and 5000 test examples each.
 
 ## Classifier model
 
@@ -14,7 +14,7 @@ For the classifier I constructed a CNN, which I also evaluated against some pret
 
 ## Generative model
 
-For the generative model i build different variations of Variational Autoencoders and Generative Adversarial Networks.
+For the generative model I build different variations of Variational Autoencoders and Generative Adversarial Networks.
 
 ## Sources
 
